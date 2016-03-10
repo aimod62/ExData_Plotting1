@@ -11,4 +11,4 @@ plot(time_set, set$Global_active_power,
 dev.copy(png,  file = "plot2.png", height = 480, width = 480)
 dev.off()
 
-#text in x axis is attributed to computer default settings in Spanish.
+
